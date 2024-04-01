@@ -7,7 +7,7 @@ def read_requirements():
 
 setup(
     name='search_in_a_third',
-    version='0.1',
+    version='0.1.1',
     packages=find_packages(),
     description='A Python package for efficient hyperparameter optimization in neural networks, using a greedy algorithm guided by heuristic directions.',
     long_description=open('README.md').read(),
