@@ -25,7 +25,7 @@ This implementation guide is designed to quickly guide users through the impleme
 To install the library, execute the following command:
 ```pip install search_in_a_third```
 
-To import the library, you should execute:
+To import the library, you should include in your code:
 ```import search_in_a_third as siat```
 
 ### Data Loading and Processing
